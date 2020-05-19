@@ -11,8 +11,7 @@ class Dog
 end
 
 Class Dog
-def bark
-
+def .bark
     puts "Woof!"
   end
 end
