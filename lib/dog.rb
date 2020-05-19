@@ -1,17 +1,17 @@
 # Your code goes here!
 class Dog
-  def .name=(dog_name)
+  def name=(dog_name)
     @this_dogs_name = dog_name
   end
  
-  def .name
+  def name
     @this_dogs_name
   end
 end
 
 class Dog
-def .bark
+def bark
     puts "Woof!"
   end
-end
+
 
